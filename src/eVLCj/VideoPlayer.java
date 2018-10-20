@@ -33,7 +33,7 @@ import uk.co.caprica.vlcj.player.MediaPlayerEventAdapter;
 import uk.co.caprica.vlcj.player.embedded.FullScreenStrategy;
 import uk.co.caprica.vlcj.player.embedded.windows.Win32FullScreenStrategy;
 
-/** Ventana principal de reproductor de vídeo
+/** Ventana principal de reproductor de vídeo, aaa
  * Utiliza la librería VLCj que debe estar instalada y configurada
  *     (http://www.capricasoftware.co.uk/projects/vlcj/index.html)
  * @author Andoni Eguíluz Morán
@@ -236,7 +236,7 @@ public class VideoPlayer extends JFrame {
 		if (res == JFileChooser.APPROVE_OPTION){
 			
 			
-			carpetaelegida = a.getCurrentDirectory();
+			carpetaelegida = a.getSelectedFile();
 			
 			System.out.println(carpetaelegida);
 		}else {carpetaelegida=null;}

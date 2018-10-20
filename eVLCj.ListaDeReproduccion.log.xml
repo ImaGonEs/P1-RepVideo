@@ -2,8 +2,8 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2018-10-20T10:17:09</date>
-  <millis>1540023429425</millis>
+  <date>2018-10-20T11:53:25</date>
+  <millis>1540029205251</millis>
   <sequence>0</sequence>
   <logger>eVLCj.ListaDeReproduccion</logger>
   <level>INFO</level>
@@ -13,31 +13,9 @@
   <message>Añadiendo Ficheros con Filtro.mp4</message>
 </record>
 <record>
-  <date>2018-10-20T10:17:09</date>
-  <millis>1540023429430</millis>
+  <date>2018-10-20T11:53:25</date>
+  <millis>1540029205252</millis>
   <sequence>1</sequence>
-  <logger>eVLCj.ListaDeReproduccion</logger>
-  <level>INFO</level>
-  <class>eVLCj.ListaDeReproduccion</class>
-  <method>add</method>
-  <thread>16</thread>
-  <message>Añadiendo Ficheros con Filtro-mp4</message>
-</record>
-<record>
-  <date>2018-10-20T10:17:27</date>
-  <millis>1540023447233</millis>
-  <sequence>2</sequence>
-  <logger>eVLCj.ListaDeReproduccion</logger>
-  <level>INFO</level>
-  <class>eVLCj.ListaDeReproduccion</class>
-  <method>add</method>
-  <thread>16</thread>
-  <message>Añadiendo Ficheros con Filtro.mp4</message>
-</record>
-<record>
-  <date>2018-10-20T10:17:27</date>
-  <millis>1540023447233</millis>
-  <sequence>3</sequence>
   <logger>eVLCj.ListaDeReproduccion</logger>
   <level>INFO</level>
   <class>eVLCj.ListaDeReproduccion</class>
