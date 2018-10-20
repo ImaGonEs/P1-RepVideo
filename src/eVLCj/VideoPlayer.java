@@ -33,7 +33,7 @@ import uk.co.caprica.vlcj.player.MediaPlayerEventAdapter;
 import uk.co.caprica.vlcj.player.embedded.FullScreenStrategy;
 import uk.co.caprica.vlcj.player.embedded.windows.Win32FullScreenStrategy;
 
-/** Ventana principal de reproductor de vídeo, aaa
+/** Ventana principal de reproductor de vídeo, 
  * Utiliza la librería VLCj que debe estar instalada y configurada
  *     (http://www.capricasoftware.co.uk/projects/vlcj/index.html)
  * @author Andoni Eguíluz Morán
